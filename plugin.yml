@@ -2,7 +2,7 @@
 name: ReallyCheat
 main: hachkingtohach1\reallycheat\RCAPIProvider
 author: hachkingtohach1(DragoVN)
-api: ["4.0.0"]
+api: 5.3.0
 version: 2.1.5
 
 commands:
